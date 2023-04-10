@@ -1,0 +1,42 @@
+.GDNetMenuDownMenu {
+	LEFT: -1000px; OVERFLOW: hidden; POSITION: absolute; TOP: -1000px
+}
+.GDNetMenuDownMenu .content {
+	POSITION: absolute
+}
+.GDNetMenuDownMenu .items {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; Z-INDEX: 2; LEFT: 0px; BORDER-LEFT: #999 1px solid; BORDER-BOTTOM: #999 1px solid; POSITION: relative; TOP: 0px
+}
+.top .items {
+	BORDER-TOP: medium none
+}
+.GDNetMenuDownMenu .item {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 9pt; BORDER-LEFT: medium none; CURSOR: hand; COLOR: #000000; BORDER-BOTTOM: medium none; TEXT-DECORATION: none
+}
+.GDNetMenuDownMenu .background {
+	Z-INDEX: 1; FILTER: alpha(opacity=85); LEFT: 0px; POSITION: absolute; TOP: 0px; moz-opacity: .8
+}
+.GDNetMenuDownMenu .shadowRight {
+	Z-INDEX: 3; FILTER: alpha(opacity=40); WIDTH: 2px; POSITION: absolute; TOP: 3px; moz-opacity: .4
+}
+.GDNetMenuDownMenu .shadowBottom {
+	Z-INDEX: 1; FILTER: alpha(opacity=40); LEFT: 3px; POSITION: absolute; HEIGHT: 2px; moz-opacity: .4
+}
+.GDNetMenuDownMenu .hover {
+	BACKGROUND: #faecdc; COLOR: #000000
+}
+.GDNetMenuDownMenu .item IMG {
+	MARGIN-LEFT: 10px
+}
+.box {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; BORDER-LEFT: #333333 1px solid; BORDER-BOTTOM: #333333 1px solid
+}
+.button {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.box2 {
+	BORDER-RIGHT: #000000 2px double; BORDER-TOP: #000000 2px double; BORDER-LEFT: #000000 2px double; BORDER-BOTTOM: #000000 2px double
+}
+.table {
+	BORDER-RIGHT: #cccccc 1px solid
+}

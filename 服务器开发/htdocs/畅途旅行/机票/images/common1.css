@@ -1,0 +1,101 @@
+<style TYPE="text/css">
+
+A{text-decoration:none; color:#222222;} 
+A:link {text-decoration:none; color:#222222;} 
+A:visited {text-decoration:none; color:#222222;}
+A:active {text-decoration:none; color:#222222;} 
+A:hover {text-decoration:none; color:red;}
+
+td{font-family:"±¼¸²","Verdana"; font-size:9pt; color:black;}
+
+.s_menu_01 {font-family:"±¼¸²"; font-size:9pt;}
+a.s_menu_01:link {text-decoration: none;color:#333333;}
+a.s_menu_01:visited {text-decoration: none; color:#333333;}
+a.s_menu_01:active {text-decoration:none; color:#333333;} 
+a.s_menu_01:hover{text-decoration:underline; color:#aaaaaa;}
+
+
+.s_menu_02 {font-family:"±¼¸²";}
+a.s_menu_02:link {color:#333333;}
+a.s_menu_02:visited {text-decoration:none; color:#333333;}
+a.s_menu_02:active {text-decoration:none; color:#333333;} 
+a.s_menu_02:hover{text-decoration:underline; color:green;}
+
+
+.head_link01 {font-family:"±¼¸²"; font-size:9pt;}
+a.head_link01:link {ext-decoration: none; color:#2E3192;}
+a.head_link01:visited {text-decoration: none; color:#2E3192;}
+a.head_link01:active {text-decoration:none; color:#2E3192;} 
+a.head_link01:hover{text-decoration:underline; color:gray;}
+
+.head_link02 {font-family:"±¼¸²"; font-size:10pt;font-weight: bold;}
+a.head_link02:link {text-decoration: underline; color:#2146C0;}
+a.head_link02:visited {text-decoration: underline; color:#2146C0;}
+a.head_link02:active {text-decoration:underline; color:#2146C0;} 
+a.head_link02:hover{text-decoration:underline; color:#2146C0;}
+
+.font_4 {font-family:"±¼¸²","Verdana"; font-size:4pt; color:707070;}
+
+.font_8  {font-family:"±¼¸²","Verdana"; font-size:8pt;}
+.font_8a {font-family:"±¼¸²","Verdana"; font-size:8pt; color:gray; text-decoration:none;}
+
+.font_9 {font-family:"±¼¸²","Verdana"; font-size:9pt; }
+.font_9_list {font-family:"±¼¸²"; font-size:10pt; color:#525252; line-height: 20pt;}
+
+.font_10 {font-family:"±¼¸²","Verdana"; font-size:10pt; color:black; line-height: 14pt}
+.font_10a {font-family:"±¼¸²","Verdana"; font-size:10pt; color:black; line-height: 11pt}
+.font_10b {font-family:"±¼¸²","Verdana"; font-size:10pt; color:#2E3192; line-height: 14pt; font-weight: bold;}
+
+.tf_10 {font-size: 24px; font-family: seoul, ±¼¸², Arial ; font-weight: bold; color: black; text-decoration: none}
+
+.tf_5 {font-family:"±¼¸²"; font-size:9pt; text-decoration:none;}
+a.tf_5:link {text-decoration:none; color:#222222;}
+a.tf_5:visited {text-decoration: none; color:#222222;}
+a.tf_5:active {text-decoration:none; color:#222222;} 
+a.tf_5:hover{text-decoration:underline; color:red;}
+
+.tf_6 {font-family:"±¼¸²"; font-size:9pt; text-decoration:none;line-height: 17pt;}
+a.tf_6:link {text-decoration:none; color:#222222;}
+a.tf_6:visited {text-decoration: none; color:#222222;}
+a.tf_6:active {text-decoration:none; color:#222222;} 
+a.tf_6:hover{text-decoration:underline; color:red;}
+
+.tf_13 {font-family:"±¼¸²"; font-size:11pt;font-weight: bold;}
+a.tf_13:link {text-decoration: underline; color:#F76521;}
+a.tf_13:visited {text-decoration: underline; color:#F76521;}
+a.tf_13:active {text-decoration:underline; color:#F76521;} 
+a.tf_13:hover{text-decoration:underline; color:#F76521;}
+
+.tf_15 {font-family:"±¼¸²"; font-size:9pt;}
+a.tf_15:link {text-decoration: none;color:#333333;}
+a.tf_15:visited {text-decoration: none; color:#333333;}
+a.tf_15:active {text-decoration:none; color:#333333;} 
+a.tf_15:hover{text-decoration:underline; color:gray;}
+
+.tf_26 {font-family:"±¼¸²"; font-size:9pt; text-decoration:none;}
+a.tf_26:link {text-decoration:none; color:#222222;}
+a.tf_26:visited {text-decoration:none; color:#222222;}
+a.tf_26:active {text-decoration:none; color:#222222;} 
+a.tf_26:hover{text-decoration:none; color:red;}
+
+.tf_19           {font-family: "±¼¸²"; font-size: 11pt; color:#000000}
+.tf_19 A:link    {COLOR:#4E4E4E;TEXT-DECORATION:none}
+.tf_19 A:visited {COLOR:#4E4E4E;TEXT-DECORATION:none}
+.tf_19 A:active  {COLOR:#000000;TEXT-DECORATION:underline:none}
+.tf_19 A:hover   {COLOR:#000000;TEXT-DECORATION:underline:none}
+
+
+.tf_20           {font-family: "±¼¸²"; font-size: 14pt; font-weight:bold; color:#A70101}
+.tf_20 A:link    {COLOR:#4E4E4E;TEXT-DECORATION:none}
+.tf_20 A:visited {COLOR:#4E4E4E;TEXT-DECORATION:none}
+.tf_20 A:active  {COLOR:#000000;TEXT-DECORATION:underline:none}
+.tf_20 A:hover   {COLOR:#000000;TEXT-DECORATION:underline:none}
+
+.tf_27 {font-family:"±¼¸²"; font-size:8pt; text-decoration:none;}
+a.tf_27:link {text-decoration:none; color:#222222;}
+a.tf_27:visited {text-decoration:none; color:#222222;}
+a.tf_27:active {text-decoration:none; color:#222222;} 
+a.tf_27:hover{text-decoration:none; color:red;}
+
+
+</style>

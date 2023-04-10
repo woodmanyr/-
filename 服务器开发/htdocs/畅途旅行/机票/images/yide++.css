@@ -1,0 +1,64 @@
+BODY {
+	
+}
+TD {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体", "system"; TEXT-DECORATION: none
+}
+.t {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 20px; FONT-FAMILY: "宋体", "system"; TEXT-DECORATION: none
+}
+.w {
+	FONT-SIZE: 9pt; COLOR: #fffaed; LINE-HEIGHT: 15px; FONT-FAMILY: "宋体", "system"; TEXT-DECORATION: none
+}
+.style1 {
+	COLOR: #ff3300
+}
+.en1 {
+	FONT-SIZE: 8pt; FONT-FAMILY: "verdana", "arial", "helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #0066cc; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #626262; TEXT-DECORATION: underline
+}
+A.mnu {
+	COLOR: #fffaed; TEXT-DECORATION: none
+}
+A.mnu:visited {
+	COLOR: #fffaed; TEXT-DECORATION: none
+}
+A.mnu:link {
+	COLOR: #fffaed; TEXT-DECORATION: none
+}
+A.mnu:active {
+	COLOR: #fffaed; TEXT-DECORATION: none
+}
+A.mnu:hover {
+	COLOR: #fffaed; TEXT-DECORATION: underline
+}
+.en {
+	FONT-SIZE: 9pt; FONT-FAMILY: "verdana", "arial", "helvetica", "sans-serif"; TEXT-DECORATION: none
+}
+.go {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: "verdana", "arial", "helvetica", "sans-serif"; HEIGHT: 16px
+}
+.text {
+	LINE-HEIGHT: 18px
+}
+.menubar {
+	
+}
+.main {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; FONT-SIZE: 10pt; BORDER-LEFT: 0px; LINE-HEIGHT: 20px; BORDER-BOTTOM: 0px; FONT-FAMILY: "宋体"
+}
+.mainzi { BORDER-RIGHT: 0px; BORDER-TOP: 0px; FONT-SIZE: 14px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px; FONT-FAMILY: "Verdana", "Arial", "Helvetica", "sans-serif"; line-height: 24px}

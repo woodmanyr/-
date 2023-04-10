@@ -1,0 +1,58 @@
+{
+  "id": "2259478",
+  "name": "畅途",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9323581",
+      "name": "公司",
+      "font_class": "gongsi",
+      "unicode": "e7e5",
+      "unicode_decimal": 59365
+    },
+    {
+      "icon_id": "14140320",
+      "name": "首页-选中",
+      "font_class": "index",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "214157",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "2076291",
+      "name": " 火车票",
+      "font_class": "huochepiao",
+      "unicode": "e89a",
+      "unicode_decimal": 59546
+    },
+    {
+      "icon_id": "3834492",
+      "name": "飞机票",
+      "font_class": "feijipiao",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "4841665",
+      "name": "租车",
+      "font_class": "zuche",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "9797014",
+      "name": "订房",
+      "font_class": "dingfang",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    }
+  ]
+}

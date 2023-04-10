@@ -1,0 +1,1 @@
+<%Const CompanyName="动网先锋"Const HostUrl="http://www.aspsky.net"Const Copyright="版权所有：  <a href=http://www.aspsky.net>动网先锋</a>"Const Version="  版本：<a href=http://www.aspsky.net/club/download.asp>Ver3.3</a>"Const MaxPerPage=10const DateNum=7  '近期热门文章的天数dim   hotkind      hotkind=2	'设置近期热门文章类型                	'1表示全部分类的热门文章		'2表示只显示所在分类的热门文章%>

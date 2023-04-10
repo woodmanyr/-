@@ -1,0 +1,21 @@
+<!--这个源码来自[源码之家-http://Codejia.Com],需要更多精品源码请访问http://Codejia.Com-->
+
+var ajstat_siteid	= '31'
+var ajstat_style	= '';
+var ajstat_url		= 'http://www.021buy.cn/stat/';
+var ajstat_ndate	= new Date();
+var ajstat_tzone	= 0 - ajstat_ndate.getTimezoneOffset()/60;
+var ajstat_tcolor	= screen.colorDepth;
+var ajstat_sSize	= screen.width + ',' + screen.height;
+var ajstat_referrer	= escape(document.referrer);
+var ajstat_outstr	= '<script language=javascript src=' + ajstat_url 
+			  + 'stat.asp?style=' + ajstat_style 
+			  + '&siteid=' + ajstat_siteid 
+			  + '&tzone=' + ajstat_tzone 
+			  + '&tcolor=' + ajstat_tcolor
+			  + '&sSize=' + ajstat_sSize
+			  + '&referrer=' + ajstat_referrer
+			  + '><\/script>';
+document.write(ajstat_outstr);
+
+<span style="display:none;">这个源码来自http://Codejia.Com,更多源码请访问<a href="http://Codejia.Com">http://Codejia.Com</a>&nbsp;<a href="http://9host.cn">虚拟主机</a>&nbsp;<a href="http://15883.com">免费域名</a>&nbsp;<a href="http://bestmoban.com">网页模版</a></span>

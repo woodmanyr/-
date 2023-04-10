@@ -1,0 +1,32 @@
+/* CSS Document */
+body{margin:0px;0px;0px;0px;}
+.font{font-size:10pt}
+input{border-width:1px;border-color:#cccccc; height:16px;}
+.input{border-width:1px;border-color:#cccccc; height:20px;}
+a:visited{text-decoration:none;color:#000000}
+a:active{text-decoration:underline;color:red}
+a:hover{text-decoration:none;color:red}
+a.clas:visited{text-decoration:none;color:#ffffff}
+a.class:link{
+	color:#ffffff;
+	text-decoration: underline;
+}
+a:link{color:#000000}
+.body{margin:0px;0px;0px;0px; background-color:#D6DFF7}
+.line_height{line-height:150%}
+.bfont{
+	font-weight: normal;; font-family: "Verdana", "Arial", "Helvetica", "sans-serif"; font-size: 14px}
+.ffont{color: #FFFFFF;font-size:10pt}
+td{ font-size:9pt}
+.bk1 {
+	background-attachment: fixed;
+	background-image: url(images/model_13.gif);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+.bk {
+	border: 1px solid #999999;
+}
+.bkgrenn {
+	border: 1px solid #004200;
+}
